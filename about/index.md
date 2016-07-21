@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Info
-cover: 'assets/images/cover1.jpg'
 class: 'post'
 navigation: True
 logo: 'assets/images/kiki-logo-light.png'
