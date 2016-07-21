@@ -1,9 +1,9 @@
 ---
 layout: default
-cover: 'assets/images/cover2.jpg'
+cover: 'none'
 class: 'tag-template'
 navigation: True
-logo: 'assets/images/ghost.png'
+logo: 'assets/images/kiki-logo-light.png'
 current: tag
 ---
 
@@ -35,7 +35,7 @@ current: tag
             {% if tag_description %}
                 {{ tag_description }}
             {% elsif page.tag %}
-			    A {{ paginator.total_posts }}-post collection
+			    Es gibt {{ paginator.total_posts }} Eintr&auml;ge mit diesem Tag
             {% endif %}
             </h2>
         </div>
