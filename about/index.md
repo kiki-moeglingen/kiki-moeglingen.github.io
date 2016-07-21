@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About
+title: Über
 class: 'post'
 navigation: True
 logo: 'assets/images/ghost.png'
 current: about
 ---
 
-This is a demo blog for Ghost, it contains dummy content which allows you to click around and see what a Ghost blog running the default theme looks like.
+Dies ist die (momentan noch im Aufbau befindliche) Internetpräsenz der Evang. Kinderkirche Möglingen Süd.
 
-We use this for testing and for reference!
+Änderungen finden momentan noch sehr häufig statt und alle momentan hier enthaltenen Posts sind lediglich zu Testzwecken und enthalten noch keine nennenswerten Informationen.
 
-If you'd like to set up your own blog, head on over to [https://ghost.org](https://ghost.org) and sign up.
+Informationen zu den Gottesdienstzeiten finden Sie solange ebenfalls [hier](http://www.evangelische-kirche-moeglingen.de/641.html?&tx_kbmeinekirche_pi11%5BshowUid%5D=650&cHash=b6483b616daed031fbda62ec8eb5c9ee).
