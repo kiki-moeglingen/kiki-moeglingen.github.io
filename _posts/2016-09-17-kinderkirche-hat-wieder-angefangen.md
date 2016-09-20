@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 cover: 'assets/images/children-happy-autumn.jpg'
 title: Die Sommerferien sind zwar vorbei, daf&uuml;r geht die Kinderkirche aber wieder los!
