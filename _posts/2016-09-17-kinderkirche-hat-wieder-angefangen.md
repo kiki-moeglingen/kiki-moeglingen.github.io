@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 cover: 'assets/images/children-happy-autumn.jpg'
-title: Die Sommerferien sind zwar vorbei, dafür geht die Kinderkirche aber wieder los!
+title: Die Sommerferien sind zwar vorbei, daf&uuml;r geht die Kinderkirche aber wieder los!
 date:   2016-09-17 8:14:00
 tags: news
 subclass: 'post tag-test tag-content'
