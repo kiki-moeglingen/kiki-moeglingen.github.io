@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Info
-class: 'post'
+subclass: 'post'
 navigation: True
 logo: 'assets/images/kiki-logo-light.png'
 current: about
