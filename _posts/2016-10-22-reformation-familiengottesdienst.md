@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Liebe Eltern, liebe Kinderkirchkinder,
 am nächsten Sonntag, den 30. Oktober feiern wir um 10 Uhr in der Pankratius- kirche einen Familiengottesdienst zur Reformation: „Das Wort muss unter die Leute“
