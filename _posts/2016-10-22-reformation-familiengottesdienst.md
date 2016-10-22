@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-cover: 'assets/images/children-happy-autumn.jpg'
+cover: 'assets/images/luther_thesenanschlag.jpg'
 title: Familiengottesdienst zur Reformation
 date:   2016-10-22 3:30:00
 tags: news
