@@ -1,7 +1,6 @@
 ---
 published: true
 ---
----
 layout: post
 cover: 'assets/images/children-happy-autumn.jpg'
 title: Familiengottesdienst zur Reformation
