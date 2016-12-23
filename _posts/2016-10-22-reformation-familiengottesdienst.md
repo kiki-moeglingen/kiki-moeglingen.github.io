@@ -20,3 +20,15 @@ Wir feiern aber noch etwas: Eli Andersen ist seit 30 Jahren in der Kinderkirche 
 
 Also dann, bis nächsten Sonntag in der Pankratiuskirche, 
 viele Grüße von den Kinderkirchmitarbeitenden der Kiki Süd
+
+
+
+# Update vom 23.12.2016:
+Liebe Eltern, liebe Kinderkirchkinder
+es war ein wirklich schöner Gottesdienst und wir freuen uns jetzt endlich die dort entstandenen Bilder mit euch teilen zu können.
+Ihr könnt die Bilder [hier](https://www.dropbox.com/sh/qlypvc9d43unzhc/AAAYWIZOcfR-mi_id-yyGgS9a?dl=0 "Dropbox") anschauen und herunterladen.
+
+Vielen Dank nochmal an alle, die an dem Gottesdienst so fleißig mitgewirkt haben.
+
+
+Grüße und ein gesegnetes Weihnachtsfest von allen Kinderkirchmitarbeitenden der Kiki Süd.
