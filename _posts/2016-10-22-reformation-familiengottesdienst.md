@@ -23,7 +23,7 @@ viele Grüße von den Kinderkirchmitarbeitenden der Kiki Süd
 
 
 
-# Update vom 23.12.2016:
+### Update vom 23.12.2016:
 Liebe Eltern, liebe Kinderkirchkinder
 es war ein wirklich schöner Gottesdienst und wir freuen uns jetzt endlich die dort entstandenen Bilder mit euch teilen zu können.
 Ihr könnt die Bilder [hier](https://www.dropbox.com/sh/qlypvc9d43unzhc/AAAYWIZOcfR-mi_id-yyGgS9a?dl=0 "Dropbox") anschauen und herunterladen.
