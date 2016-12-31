@@ -12,4 +12,4 @@ logo: 'assets/images/kiki-logo-light.png'
 ---
 
 # Noelles Auftrag
-Über 30 Kinder waren mit begeisterung bei der Sache als es darum ging die Gemeinde mit dem jährlichen Krippenspiel zu verzaubern.
+Über 30 Kinder waren mit Begeisterung bei der Sache als es darum ging die Gemeinde mit dem jährlichen Krippenspiel zu verzaubern.
