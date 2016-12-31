@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-cover: 'http://img.hrhwalls.com/images5/dzpyxbyerml.jpg'
+cover: 'assets/images/pankratiuskirche.jpg'
 title: Krippenspielgottesdienst an Heiligabend
 date:   2016-12-24 18:00:00
 tags: news
