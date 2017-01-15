@@ -3,7 +3,7 @@ published: true
 layout: post
 cover: 'assets/images/weihnachten-2016-hirten.jpg'
 title: Krippenspielgottesdienst an Heiligabend
-date:   2016-01-15 14:00:00
+date:   2017-01-15 14:00:00
 tags: news
 subclass: 'post tag-test tag-content'
 categories: 'allgemein'
