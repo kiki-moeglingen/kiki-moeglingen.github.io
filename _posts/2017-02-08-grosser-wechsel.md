@@ -10,10 +10,10 @@ comments: true
 
 
 <figure class="half">
-	<a href="assets/img/MA_WEIHN_2016_01.JPG"><img src="assets/img/MA_WEIHN_2016_01_small.jpg"></a>
-	<a href="assets/img/MA_WEIHN_2016_02.JPG"><img src="assets/img/MA_WEIHN_2016_02_small.jpg"></a>
-	<a href="assets/img/MA_WEIHN_2016_03.JPG"><img src="assets/img/MA_WEIHN_2016_03_small.jpg"></a>
-	<a href="assets/img/MA_WEIHN_2016_04.JPG"><img src="assets/img/MA_WEIHN_2016_04_small.jpg"></a>
+	<a href="/assets/img/MA_WEIHN_2016_01.JPG"><img src="/assets/img/MA_WEIHN_2016_01_small.jpg"></a>
+	<a href="/assets/img/MA_WEIHN_2016_02.JPG"><img src="/assets/img/MA_WEIHN_2016_02_small.jpg"></a>
+	<a href="/assets/img/MA_WEIHN_2016_03.JPG"><img src="/assets/img/MA_WEIHN_2016_03_small.jpg"></a>
+	<a href="/assets/img/MA_WEIHN_2016_04.JPG"><img src="/assets/img/MA_WEIHN_2016_04_small.jpg"></a>
 	<figcaption>Weihnachtsfeier bei den Kinderkirch Mitarbeitern.</figcaption>
 </figure>
 
