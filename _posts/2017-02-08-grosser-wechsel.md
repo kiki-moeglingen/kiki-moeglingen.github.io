@@ -9,7 +9,7 @@ comments: true
 ---
 
 
-<figure class="half>
+<figure class="half">
 	<a href="assets/img/MA_WEIHN_2016_01.JPG"><img src="assets/img/MA_WEIHN_2016_01_small.jpg"></a>
 	<a href="assets/img/MA_WEIHN_2016_02.JPG"><img src="assets/img/MA_WEIHN_2016_02_small.jpg"></a>
 	<a href="assets/img/MA_WEIHN_2016_03.JPG"><img src="assets/img/MA_WEIHN_2016_03_small.jpg"></a>
