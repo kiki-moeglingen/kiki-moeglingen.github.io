@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Info
-subclass: 'post'
-navigation: True
-logo: 'assets/images/kiki-logo-light.png'
-current: about
+tags: [about, info, kiki, möglingen, moeglingen, kinder, kirche]
+date: 2016-10-21
+comments: false
 ---
 
 Dies ist die (momentan noch im Aufbau befindliche) Internetpr&auml;senz der Evang. Kinderkirche M&ouml;glingen S&uuml;d.
