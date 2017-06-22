@@ -1,14 +1,11 @@
 ---
-published: true
 layout: post
-cover: 'assets/images/weihnachten-2016-hirten.jpg'
-title: Weihnachten 2016 in der Kinderkirche Süd
-date:   2017-01-15 14:00:00
-tags: news
-subclass: 'post tag-test tag-content'
-categories: 'allgemein'
-navigation: True
-logo: 'assets/images/kiki-logo-light.png'
+title:  "Weihnachten 2016 in der Kinderkirche Süd"
+date:   2017-01-15
+excerpt: "Erwartungsvoll schauen die jungen Hirten und Hirtinnen in die Kamera..."
+tag:
+- news
+comments: true
 ---
 
 Erwartungsvoll schauen die jungen Hirten und Hirtinnen in die Kamera. Bald werden sie auf die Bühne in der Pankratiunskirche stehen und ihren Text auswendig aufsagen. Hoffentlich sind sie nicht zu aufgeregt und vergessen ihren Einsatz nicht! Denn so ein voller Kirchenraum kann schon die Nerven flattern lassen! Eineinhalb Stunden später ist alles überstanden. Natürlich hat alles gut geklappt, dafür haben schon die beiden Verantwortlichen: Janine und Katharina gesorgt, aber auch die Souffleuse: Franzi und natürlich die Techniker: Christoph und Kevin.

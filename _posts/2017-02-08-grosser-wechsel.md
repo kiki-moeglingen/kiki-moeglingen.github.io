@@ -1,17 +1,23 @@
 ---
-published: true
 layout: post
-cover: 'assets/images/MA_WEIHN_2016_02.JPG'
-title: Großer Wechsel in der Kinderkirche Süd
-date:   2017-02-08 18:00:00
-tags: news
-subclass: 'post tag-test tag-content'
-categories: 'allgemein'
-navigation: True
-logo: 'assets/images/kiki-logo-light.png'
+title:  "Großer Wechsel in der Kinderkirche Süd"
+date:   2017-02-08
+excerpt: "Auch wenn das Bild etwas anderes vermuten lässt, die letztjährige Weihnachtsfeier der Mitarbeiterinnen und Mitarbeiter in der Kinderkirche Süd stand ganz im Zeichen des Abschieds."
+tag:
+- news
+comments: true
 ---
 
-Auch wenn das Bild etwas anderes vermuten lässt, die letztjährige Weihnachtsfeier der Mitarbeiterinnen und Mitarbeiter in der Kinderkirche Süd stand ganz im Zeichen des Abschieds.
+
+<figure class="half>
+	<a href="assets/img/MA_WEIHN_2016_01.JPG"><img src="assets/img/MA_WEIHN_2016_01_small.jpg"></a>
+	<a href="assets/img/MA_WEIHN_2016_02.JPG"><img src="assets/img/MA_WEIHN_2016_02_small.jpg"></a>
+	<a href="assets/img/MA_WEIHN_2016_03.JPG"><img src="assets/img/MA_WEIHN_2016_03_small.jpg"></a>
+	<a href="assets/img/MA_WEIHN_2016_04.JPG"><img src="assets/img/MA_WEIHN_2016_04_small.jpg"></a>
+	<figcaption>Weihnachtsfeier bei den Kinderkirch Mitarbeitern.</figcaption>
+</figure>
+
+Auch wenn die Bilder etwas anderes vermuten lassen, die letztjährige Weihnachtsfeier der Mitarbeiterinnen und Mitarbeiter in der Kinderkirche Süd stand ganz im Zeichen des Abschieds.
 
 In großer Runde waren wir zusammengekommen, um letzte Absprachen zu treffen, Geschenke für die Kinder einzupacken, uns durch die Andacht von Pfarrer Langer auf Weihnachten einzustimmen zu lassen und selbst beschenkt zu werden. Aber im Mittelpunkt dieses Abends stand der Abschied von sechs zum Teil sehr langjährigen Kinderkirchleuten, das tat richtig weh.
 

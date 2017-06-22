@@ -1,13 +1,11 @@
 ---
 layout: post
-cover: 'assets/images/cover_news.jpg'
-title: Es lebt!
-date:   2016-07-21 7:56:00
-tags: news
-subclass: 'post tag-test tag-content'
-categories: 'allgemein'
-navigation: True
-logo: 'assets/images/kiki-logo-light.png'
+title:  "Es lebt!"
+date:   2016-07-21
+excerpt: "Es ist soweit, die Internetseite der Evang. Kinderkirche M&ouml;glingen S&uuml;d steht."
+tag:
+- news
+comments: true
 ---
 
 Juhu! Es ist soweit, die Internetseite der Evang. Kinderkirche M&ouml;glingen S&uuml;d steht.
