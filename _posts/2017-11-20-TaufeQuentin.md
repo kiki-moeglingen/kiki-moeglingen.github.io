@@ -14,7 +14,7 @@ Quentin hatte sich gewünscht in der Kinderkirche getauft zu werden wie seine gr
 
 <figure>
 	<a href="/assets/img/QUENTIN_TAUFE_2017_01.jpg"><img src="/assets/img/QUENTIN_TAUFE_2017_01_small.jpg"></a>
-	<figcaption>Quentin, das Lichtkind</figcaption>
+	<figcaption style="text-align: center;">Quentin, das Lichtkind</figcaption>
 </figure>
 
 So gestalteten zwei sehr fleißige Kinderkirchmitarbeiter ein großes Bild mit hunderten von Streichhölzern gesteckt in Salzteig mit den Worten: „Quentin, Kind des Lichts“. Nach der Geschichte wurden die Hölzchen spektakulär abgebrannt, es wurde richtig hell und es rauchte ein wenig in der Kirche, aber zwei Mitarbeiter der Kinderkirche sind ausgebildete Feuerwehrleute! :smile:
@@ -22,7 +22,7 @@ Anschließend wurde Quentin durch Pfarrer Langer getauft und alle Kinder waren T
 
 <figure>
 	<a href="/assets/img/QUENTIN_TAUFE_2017_02.jpg"><img src="/assets/img/QUENTIN_TAUFE_2017_02_small.jpg"></a>
-	<figcaption>Abschlusskreis</figcaption>
+	<figcaption style="text-align: center;">Abschlusskreis</figcaption>
 </figure>
 
 Wie gewohnt versammelten sich alle GottesdienstbesucherInnen zu einem großen Abschlusskreis und wir sangen: „Gott, dein guter Segen ist wie ein helles Licht.“ Diese Erfahrung wünschen wir unserem frisch getauften Kinderkirchkind Quentin immer wieder.
