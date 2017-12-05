@@ -32,20 +32,20 @@ Elisabeth Andersen
 
 <figure class="third">
 	<a href="/assets/img/QUENTIN_TAUFE_2017_03.jpg"><img src="/assets/img/QUENTIN_TAUFE_2017_03_small.jpg"></a>
-  <a href="/assets/img/QUENTIN_TAUFE_2017_04.jpg"><img src="/assets/img/QUENTIN_TAUFE_2017_04_small.jpg"></a>
-  <a href="/assets/img/QUENTIN_TAUFE_2017_05.jpg"><img src="/assets/img/QUENTIN_TAUFE_2017_05_small.jpg"></a>
-  <a href="/assets/img/QUENTIN_TAUFE_2017_06.jpg"><img src="/assets/img/QUENTIN_TAUFE_2017_06_small.jpg"></a>
-  <a href="/assets/img/QUENTIN_TAUFE_2017_07.jpg"><img src="/assets/img/QUENTIN_TAUFE_2017_07_small.jpg"></a>
-  <a href="/assets/img/QUENTIN_TAUFE_2017_08.jpg"><img src="/assets/img/QUENTIN_TAUFE_2017_08_small.jpg"></a>
-  <a href="/assets/img/QUENTIN_TAUFE_2017_09.jpg"><img src="/assets/img/QUENTIN_TAUFE_2017_09_small.jpg"></a>
-  <a href="/assets/img/QUENTIN_TAUFE_2017_10.jpg"><img src="/assets/img/QUENTIN_TAUFE_2017_10_small.jpg"></a>
-  <a href="/assets/img/QUENTIN_TAUFE_2017_11.jpg"><img src="/assets/img/QUENTIN_TAUFE_2017_11_small.jpg"></a>
-  <a href="/assets/img/QUENTIN_TAUFE_2017_12.jpg"><img src="/assets/img/QUENTIN_TAUFE_2017_12_small.jpg"></a>
-  <a href="/assets/img/QUENTIN_TAUFE_2017_13.jpg"><img src="/assets/img/QUENTIN_TAUFE_2017_13_small.jpg"></a>
-  <a href="/assets/img/QUENTIN_TAUFE_2017_14.jpg"><img src="/assets/img/QUENTIN_TAUFE_2017_14_small.jpg"></a>
-  <a href="/assets/img/QUENTIN_TAUFE_2017_15.jpg"><img src="/assets/img/QUENTIN_TAUFE_2017_15_small.jpg"></a>
-  <a href="/assets/img/QUENTIN_TAUFE_2017_16.jpg"><img src="/assets/img/QUENTIN_TAUFE_2017_16_small.jpg"></a>
-  <a href="/assets/img/QUENTIN_TAUFE_2017_17.jpg"><img src="/assets/img/QUENTIN_TAUFE_2017_17_small.jpg"></a>
-  <a href="/assets/img/QUENTIN_TAUFE_2017_18.jpg"><img src="/assets/img/QUENTIN_TAUFE_2017_18_small.jpg"></a>
-  <a href="/assets/img/QUENTIN_TAUFE_2017_19.jpg"><img src="/assets/img/QUENTIN_TAUFE_2017_19_small.jpg"></a>
+    <a href="/assets/img/QUENTIN_TAUFE_2017_04.jpg"><img src="/assets/img/QUENTIN_TAUFE_2017_04_small.jpg"></a>
+    <a href="/assets/img/QUENTIN_TAUFE_2017_05.jpg"><img src="/assets/img/QUENTIN_TAUFE_2017_05_small.jpg"></a>
+    <a href="/assets/img/QUENTIN_TAUFE_2017_06.jpg"><img src="/assets/img/QUENTIN_TAUFE_2017_06_small.jpg"></a>
+    <a href="/assets/img/QUENTIN_TAUFE_2017_07.jpg"><img src="/assets/img/QUENTIN_TAUFE_2017_07_small.jpg"></a>
+    <a href="/assets/img/QUENTIN_TAUFE_2017_08.jpg"><img src="/assets/img/QUENTIN_TAUFE_2017_08_small.jpg"></a>
+    <a href="/assets/img/QUENTIN_TAUFE_2017_09.jpg"><img src="/assets/img/QUENTIN_TAUFE_2017_09_small.jpg"></a>
+    <a href="/assets/img/QUENTIN_TAUFE_2017_10.jpg"><img src="/assets/img/QUENTIN_TAUFE_2017_10_small.jpg"></a>
+    <a href="/assets/img/QUENTIN_TAUFE_2017_11.jpg"><img src="/assets/img/QUENTIN_TAUFE_2017_11_small.jpg"></a>
+    <a href="/assets/img/QUENTIN_TAUFE_2017_12.jpg"><img src="/assets/img/QUENTIN_TAUFE_2017_12_small.jpg"></a>
+    <a href="/assets/img/QUENTIN_TAUFE_2017_14.jpg"><img src="/assets/img/QUENTIN_TAUFE_2017_14_small.jpg"></a>
+    <a href="/assets/img/QUENTIN_TAUFE_2017_19.jpg"><img src="/assets/img/QUENTIN_TAUFE_2017_19_small.jpg"></a>
+    <a href="/assets/img/QUENTIN_TAUFE_2017_13.jpg"><img src="/assets/img/QUENTIN_TAUFE_2017_13_small.jpg"></a>
+    <a href="/assets/img/QUENTIN_TAUFE_2017_15.jpg"><img src="/assets/img/QUENTIN_TAUFE_2017_15_small.jpg"></a>
+    <a href="/assets/img/QUENTIN_TAUFE_2017_17.jpg"><img src="/assets/img/QUENTIN_TAUFE_2017_17_small.jpg"></a>
+    <a href="/assets/img/QUENTIN_TAUFE_2017_18.jpg"><img src="/assets/img/QUENTIN_TAUFE_2017_18_small.jpg"></a>
+    <a href="/assets/img/QUENTIN_TAUFE_2017_16.jpg"><img src="/assets/img/QUENTIN_TAUFE_2017_16_small.jpg"></a>
 </figure>
