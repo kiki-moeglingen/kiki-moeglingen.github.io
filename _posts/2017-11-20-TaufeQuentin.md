@@ -17,7 +17,7 @@ Quentin hatte sich gewünscht in der Kinderkirche getauft zu werden wie seine gr
 	<figcaption style="text-align: center;">Quentin, das Lichtkind</figcaption>
 </figure>
 
-So gestalteten zwei sehr fleißige Kinderkirchmitarbeiter ein großes Bild mit hunderten von Streichhölzern gesteckt in Salzteig mit den Worten: „Quentin, Kind des Lichts“. Nach der Geschichte wurden die Hölzchen spektakulär abgebrannt, es wurde richtig hell und es rauchte ein wenig in der Kirche, aber zwei Mitarbeiter der Kinderkirche sind ausgebildete Feuerwehrleute! :smile:
+So gestalteten zwei sehr fleißige Kinderkirchmitarbeiter ein großes Bild mit hunderten von Streichhölzern gesteckt in Salzteig mit den Worten: „Quentin, Kind des Lichts“. Nach der Geschichte wurden die Hölzchen spektakulär abgebrannt, es wurde richtig hell und es rauchte ein wenig in der Kirche, aber zwei Mitarbeiter der Kinderkirche sind ausgebildete Feuerwehrleute! 
 Anschließend wurde Quentin durch Pfarrer Langer getauft und alle Kinder waren Taufzeugen.
 
 <figure>
