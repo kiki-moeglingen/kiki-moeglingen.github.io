@@ -15,4 +15,4 @@ comments: true
 - Am 22. April ist Familiengottesdienst auf dem Feuerwehrfest um 10 Uhr. Treffpunkt um 9.50 Uhr am Haus an der Quelle. Wir gehen da gemeinsam hin, deshalb keine Kiki an diesem Sonntag!
 - Am Sonntag, 29.4. um 10.45 Uhr Kinderkirche im Haus an der Quelle.
 - Am 6. Mai ebenfalls um 10.45 Uhr Kinderkirche im Haus an der Quelle. An diesem Sonntag wird um 13.30 Uhr auf Bibel TV bei „Hallo Benjamin“ und um 16 Uhr bei Bwfamily der kleine Film über unsere Kinderkirche ausgestrahlt.
-- Wer schon vorher das Kinderkirchvideo sehen will, kann das auf der Homepage der Kirchengemeinde oder auf unserer Kiki-Homepage unter http://kiki-moeglingen.ga/ tun.
+- Wer schon vorher das Kinderkirchvideo sehen will, kann das auf der Homepage der Kirchengemeinde oder [hier](http://kiki-moeglingen.ga/ "Kinderkirche Möglingen Süd") auf unserer Kiki-Homepage tun.
