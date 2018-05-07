@@ -9,8 +9,6 @@ tag:
 comments: true
 ---
 
-# Elisabeth Andersen bei Kirchenfernsehen.de
-
 Kinderkirche kann ganz unterschiedlich sein. Gemeint ist damit ein extra für Kinder gestalteter Gottesdienst. In den evangelischen Kirchen findet der Kindergottesdienst während oder auch zeitlich versetzt zum Gottesdienst der Erwachsenen statt. Hier steht gemeinsames Singen und Beten im Mittelpunkt. Ergänzt wird der Gottesdienst von Erzählungen und Geschichten aus der Bibel. Diese sollen die Grundlagen des christlichen Glaubens näher bringen.
 
 ## Kinderkirchenexpertin Elisabeth Andersen
